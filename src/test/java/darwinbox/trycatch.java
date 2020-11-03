@@ -13,9 +13,6 @@ public class trycatch {
        }
        System.out.println("Asha");
        int z=9;
-       System.out.println(z);
-       System.out.println("git change1");
-       System.out.println("git change2");
-       System.out.println("changing in 1st eclipse window, gitsuff1");
+      System.out.println("hello");
 	}
 }
